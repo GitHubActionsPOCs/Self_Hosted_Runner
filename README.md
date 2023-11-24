@@ -47,7 +47,7 @@
 
 
 ----
-## Ignore React app contents in this repo for now; this might helpful in other repos for testing
+## Ignore React app contents in this repo for now; this might helpful in other POC/repos for testing
 
 ## React App 
 - Install Node
