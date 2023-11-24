@@ -1,10 +1,8 @@
 name: Self-Hosted Runner Test
-
 on: 
   push:
     branches:
     - master
-
 jobs:
   Runner-1:
     runs-on: [ self-hosted, Ubuntu-22 ]
