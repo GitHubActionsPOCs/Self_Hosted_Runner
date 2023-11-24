@@ -6,11 +6,12 @@ on:
     - master
 
 jobs:
-  build:
+  Runner-1:
     runs-on: self-hosted
     steps:
     - uses: actions/checkout@v2
 
-    - name: docker build python
+    - name: Server Details
       run: |
-        docker build ./python/introduction/ -t python:1.0.0
+        whoami
+        cat /etc/os-release
