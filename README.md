@@ -58,5 +58,10 @@
 
 
 
+#### References:
+- About self-hosted runners. [Here](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners)
+- To add a self-hosted runner. [Here](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/adding-self-hosted-runners)
+- To Use multiple runners in workflows. [Here](https://docs.github.com/en/github-ae@latest/actions/hosting-your-own-runners/managing-self-hosted-runners/using-self-hosted-runners-in-a-workflow#using-default-labels-to-route-jobs)
+- To Use Docker/Kubernested as a runner. [Here](https://youtu.be/RcHGqCBofvw?si=4M9Msi6oxfrLEhR9)
 
 
